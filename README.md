@@ -1,1 +1,1 @@
-# COMP002-Lexture-Activity3
+# COMP002-Lecture-Activity3
